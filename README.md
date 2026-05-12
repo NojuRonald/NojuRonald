@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Biyu](README.md) , a Data Scientist based in Indonesia
+I'm [Biyu](README.md), a Data Scientist based in Indonesia
 
 I Built whatever i can imagine
 
