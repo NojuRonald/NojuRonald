@@ -8,9 +8,7 @@ If an idea pops into my head, chances are I'll build it and ship it
 
 My main tech stack is Pyhton:Pandas, NumPy, SQL; and R My favorite tools are Tableau and Power BI
 
-I've got a bunch of projects, but my favorite is the Flash Card Scene Matchmaker which i despearately need at that time
-
-If you are interested in using my projects feel free to use it, i built it for the people that have same struggles!
+I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time
 
 Fun Facts:
 * I can speak 10+ languages (not coding related)
