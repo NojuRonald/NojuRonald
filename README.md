@@ -13,9 +13,9 @@ I've got a bunch of pinned projects, but my favorite is the Flash Card Scene Mat
 If you are interested in using my projects feel free to use it, i built it for the people that have same struggles!
 
 Fun Facts:
-* **I can speak 10+ languages (not coding related)
-* **I prefer Tea rather than Coffee
-* **Kino no tabi is my favorite anime
+* I can speak 10+ languages (not coding related)
+* I prefer Tea rather than Coffee
+* Kino no tabi is my favorite anime
 * **Hobbies**: learning new language and building things around it
 <!--
 **NojuRonald/NojuRonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
