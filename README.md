@@ -6,7 +6,7 @@ I Built whatever i can imagine
 
 If an idea pops into my head, chances are I'll build it and ship it
 
-My main tech stack is Pyhton:Pandas, NumPy, SQL; and R My favorite tools are Tableau and Power BI
+My main tech stack is Pyhton:Pandas, NumPy, and SQL For visual tho my favorite tools are Tableau
 
 I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time
 
