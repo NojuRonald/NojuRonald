@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi there 👋<br>I'm Biyu, a Data Scientist based in Indonesia<br><br>I Built whatever i can imagine<br><br>If an idea pops into my head, chances are I'll build it and ship it<br><br>I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time<br><br>Fun Facts:<br><br>I'm **Multilingual** (not yet coding related)<br>I prefer **Tea** rather than Coffee<br>**Kino no tabi** is my favorite anime<br>**Hobbies**: learning new language and building things around it
+Hi there 👋<br>I'm Biyu, a Data Scientist based in Indonesia<br><br>I Built whatever i can imagine<br><br>If an idea pops into my head, chances are I'll build it and ship it<br><br>I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time<br><br>Fun Facts:<br><br>I'm **Multilingual** (not yet coding related)<br>I prefer **Tea** rather than Coffee<br>**Kino no tabi** is my favorite anime<br>**Hobbies**: learning new language and building Tech things around it
 
 
 ## 🌐 Socials:
