@@ -11,7 +11,7 @@ My main tech stack is Pyhton:Pandas, NumPy, and SQL For visual tho my favorite t
 I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time
 
 Fun Facts:
-* I can speak 10+ languages (not coding related)
+* I'm Multilingual (not coding related)
 * I prefer Tea rather than Coffee
 * Kino no tabi is my favorite anime
 * **Hobbies**: learning new language and building things around it
