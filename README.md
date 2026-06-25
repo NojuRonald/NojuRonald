@@ -6,8 +6,6 @@ I Built whatever i can imagine
 
 If an idea pops into my head, chances are I'll build it and ship it
 
-My main tech stack is Pyhton:Pandas, NumPy, and SQL For visual tho my favorite tools are Tableau
-
 I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time
 
 Fun Facts:
@@ -15,17 +13,16 @@ Fun Facts:
 * I prefer Tea rather than Coffee
 * Kino no tabi is my favorite anime
 * **Hobbies**: learning new language and building things around it
-<!--
-**NojuRonald/NojuRonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+# 💫 About Me:
+Hi there 👋<br>I'm Biyu, a Data Scientist based in Indonesia<br><br>I Built whatever i can imagine<br><br>If an idea pops into my head, chances are I'll build it and ship it<br><br>My main tech stack is Pyhton:Pandas, NumPy, and SQL For visual tho my favorite tools are Tableau<br><br>I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time<br><br>Fun Facts:<br><br>I'm Multilingual (not coding related)<br>I prefer Tea rather than Coffee<br>Kino no tabi is my favorite anime<br>Hobbies: learning new language and building things around it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Socials:
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/haroldevui) 
+
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
