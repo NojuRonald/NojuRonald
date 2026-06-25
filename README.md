@@ -1,22 +1,5 @@
-## Hi there 👋
-
-I'm [Biyu](README.md), a Data Scientist based in Indonesia
-
-I Built whatever i can imagine
-
-If an idea pops into my head, chances are I'll build it and ship it
-
-I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time
-
-Fun Facts:
-* I'm Multilingual (not coding related)
-* I prefer Tea rather than Coffee
-* Kino no tabi is my favorite anime
-* **Hobbies**: learning new language and building things around it
-
-  
-# 💫 About Me:
-Hi there 👋<br>I'm Biyu, a Data Scientist based in Indonesia<br><br>I Built whatever i can imagine<br><br>If an idea pops into my head, chances are I'll build it and ship it<br><br>My main tech stack is Pyhton:Pandas, NumPy, and SQL For visual tho my favorite tools are Tableau<br><br>I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time<br><br>Fun Facts:<br><br>I'm Multilingual (not coding related)<br>I prefer Tea rather than Coffee<br>Kino no tabi is my favorite anime<br>Hobbies: learning new language and building things around it
+## 💫 About Me:
+Hi there 👋<br>I'm Biyu, a Data Scientist based in Indonesia<br><br>I Built whatever i can imagine<br><br>If an idea pops into my head, chances are I'll build it and ship it<br><br><br>I've got a bunch of projects, but my favorite is the Flash Card Scene Match for ANKI which i need at that time<br><br>Fun Facts:<br><br>I'm **Multilingual** (not yet coding related)<br>I prefer **Tea** rather than Coffee<br>**Kino no tabi** is my favorite anime<br>**Hobbies**: learning new language and building things around it
 
 
 ## 🌐 Socials:
