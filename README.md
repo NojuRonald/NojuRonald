@@ -1,5 +1,5 @@
 ## 💫 About Me:
-moost data is bias, so its still a human job<br>I'm Biyyu, a Data Scientist based in Indonesia<br><br>I Built whatever i can imagine<br><br>Learning Chinese and Japanese<br><br>>I prefer **Tea** rather than Coffee<br>**Kino no tabi**
+Most data is bias, so its still a human job<br>I'm Biyyu, a Data Scientist based in Indonesia<br><br>I Built whatever i can imagine<br><br>Learning Chinese and Japanese<br><br>>I prefer **Tea** rather than Coffee<br>**Kino no tabi**
 
 
 ## 🌐 Socials:
